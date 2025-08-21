@@ -12,5 +12,5 @@ the project detects the counting fingers for the right hand and count from (0-7)
 
 to run the project execute the fingerCountingProject.py script
 
-# explanation video
-https://www.youtube.com/watch?v=haK1UOejUgg
+
+
