@@ -13,7 +13,7 @@ def main():
         Product(6, "Sneakers", "Footwear"),
     ]
 
-    # Create users
+    # Create user
     users = [
         User(1, "Alice"),
         User(2, "Bob"),
