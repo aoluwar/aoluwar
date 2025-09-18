@@ -1,14 +1,21 @@
-# 🚀 Hi there, I'm Ademola Omisakin! 
+# 🚀 Hi, I'm ThePytorGuy (Ademola Omisakin)! 
 ### AI/ML Engineer • Blockchain Developer • Data Science Wizard
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Machine+Learning+Engineer;Blockchain+Developer+%7C+Python+%7C+Rust+%7C+Go;Turning+Data+into+Intelligence+%F0%9F%A7%A0;Building+the+Future+with+Code+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
+## 👋 Quick Intro
+
+- 👀 I'm interested in **Data Science, Machine Learning & AI, Python, C++, JavaScript**
+- 🌱 I'm currently learning **Blockchain, DevOps and Robotics**
+- 💞️ I'm looking to collaborate on **AI, Blockchain, DevOps and Robotics**
+- 📫 How to reach me: **aoluwar@gmail.com**
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ademola-omisakin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aoluwar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aoluwar@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/aoluwar?label=Follow&style=social)](https://github.com/aoluwar)
 ![Profile Views](https://komarev.com/ghpvc/?username=aoluwar&color=blueviolet&style=for-the-badge)
 
@@ -89,6 +96,7 @@ mindmap
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -107,11 +115,17 @@ mindmap
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### **Databases & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Robotics & IoT**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </div>
 
