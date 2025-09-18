@@ -10,12 +10,11 @@
 - 👀 I'm interested in **Data Science, Machine Learning & AI, Python, C++, JavaScript**
 - 🌱 I'm currently learning **Blockchain, DevOps and Robotics**
 - 💞️ I'm looking to collaborate on **AI, Blockchain, DevOps and Robotics**
-- 📫 How to reach me: **aoluwar@gmail.com**
+- 📫 How to reach me: **Check my profile for contact info**
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ademola-omisakin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aoluwar@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/aoluwar?label=Follow&style=social)](https://github.com/aoluwar)
 ![Profile Views](https://komarev.com/ghpvc/?username=aoluwar&color=blueviolet&style=for-the-badge)
 
@@ -60,31 +59,6 @@ mindmap
 ```
 
 </div>
-
----
-
-## 💼 Professional Journey
-
-### 🚀 **Blockchain Engineer** (Contractor) 
-*Jan 2023 - Jun 2024*
-- 🔐 Built secure smart contracts across **Ethereum & Solana**
-- ⚡ Developed custom consensus algorithm improving energy efficiency by **60%**
-- 🛡️ Conducted security audits preventing vulnerabilities
-- 👥 Mentored junior developers in blockchain best practices
-
-### 🌱 **Machine Learning Engineer** @ GROW
-*Feb 2022 - Apr 2023*
-- 🎯 Improved crop yield predictions by **30%** using advanced ML
-- 🌦️ Built weather prediction model with **85% accuracy**
-- 📊 Co-developed AI dashboard increasing platform adoption by **50%**
-- 🧪 Optimized algorithms for specific crop types with agronomists
-
-### 📊 **Data Scientist** @ Fiverr (Freelance)
-*Oct 2021 - Feb 2022*
-- ⭐ Maintained **5-star rating** across all client projects
-- 📉 Reduced telecom churn by **15%** with predictive modeling  
-- 📈 Improved e-commerce cross-sell revenue by **30%**
-- 🎯 Enhanced marketing campaign effectiveness by **40%**
 
 ---
 
