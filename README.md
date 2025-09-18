@@ -150,7 +150,7 @@ A real-time music recommendation system with personalized suggestions
 - User preference learning
 - Scalable architecture
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/aoluwar/Apple-music-Recommender)
 
 </td>
 <td width="50%">
@@ -166,7 +166,7 @@ AI-powered agricultural solution for crop optimization
 - 30% improvement in predictions
 - Real-time monitoring
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/aoluwar/Agriculture-AI-platform)
 
 </td>
 </tr>
@@ -245,7 +245,13 @@ class AdemolaOmisakin:
             "🌱 AgriTech innovations",
             "🎓 Teaching & mentoring"
         ]
-        self.currently_learning = ["Advanced Deep Learning", "DeFi Protocols"]
+        self.currently_learning = ["Advanced Deep Learning", "DeFi Protocols", "DevOps", "Robotics"]
+        self.collaboration_interests = [
+            "🤖 AI & Machine Learning",
+            "⛓️ Blockchain Development", 
+            "🚀 DevOps & Infrastructure",
+            "🤖 Robotics & IoT"
+        ]
         self.fun_fact = "I automated maintenance reports saving 10hrs/week! ⚡"
     
     def get_coffee(self):
