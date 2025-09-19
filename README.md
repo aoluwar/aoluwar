@@ -259,6 +259,6 @@ class AdemolaOmisakin:
 
 ---
 
-**⭐ From [Ademola Omisakin](https://github.com/aoluwar) - Building the future, one algorithm at a time! 🚀**
+**⭐ From [DeeThePytor](https://github.com/aoluwar) - Building the future, one algorithm at a time! 🚀**
 
 </div>
