@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm ThePytorGuy (Ademola Omisakin)! 
+# 🚀 Hi, I'm ThePytorGuy  
 ### AI/ML Engineer • Blockchain Developer • Data Science Wizard
 
 <div align="center">
