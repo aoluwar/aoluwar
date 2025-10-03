@@ -7,7 +7,7 @@
 
 ## 👋 Quick Intro
 
-- 👀 I'm interested in **Data Science, Machine Learning & AI, Python, C++, JavaScript**
+- 👀 I'm **Data Science, Machine Learning & AI, Python, C++, JavaScript**
 - 🌱 I'm currently learning **Blockchain, DevOps and Robotics**
 - 💞️ I'm looking to collaborate on **AI, Blockchain, DevOps and Robotics**
 - 📫 How to reach me: **Check my profile for contact info**
